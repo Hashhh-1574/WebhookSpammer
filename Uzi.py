@@ -51,6 +51,6 @@ while x < SPAM:
         x +=1
         print("[+] Webhook Spamming")
     except:
-        print("[-] Eror")
+        print("[-] Error")
         pass
 print("\n[+] Spam Done ")
